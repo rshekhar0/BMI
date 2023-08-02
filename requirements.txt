@@ -1,2 +1,2 @@
-pip install pywebio
+pip install pywebio==1.8.2
 pip install pip
